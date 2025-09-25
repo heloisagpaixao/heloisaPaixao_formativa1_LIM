@@ -1,0 +1,7 @@
+h1{
+    background-color: rgb(250, 235, 215);
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-image: url(/src/images/pancake_img.jpg);
+}
