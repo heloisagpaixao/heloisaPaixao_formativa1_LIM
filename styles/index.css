@@ -3,11 +3,19 @@ body {
 }
 
 header{
-    color: rgb(61, 0, 0);
+    color: rgb(49, 0, 30);
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
     background-image: url(/src/images/pancake_img.jpg)
+}
+
+h2{
+    color:rgb(49, 0, 30);
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-image: url(/src/images/paletaDeCores.png);
 }
 
 p {
