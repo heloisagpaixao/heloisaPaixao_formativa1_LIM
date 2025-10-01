@@ -1,8 +1,9 @@
 body {
-    background-color: rgb(255, 244, 253);;
+    background-color: rgb(255, 244, 253);
+    ;
 }
 
-header{
+header {
     color: rgb(91, 0, 0);
     background-size: cover;
     background-position: center;
@@ -10,13 +11,13 @@ header{
     background-image: url(../src/images/header_candy.jpg)
 }
 
-h1{
+h1 {
     color: rgb(91, 0, 0);
     text-align: center;
 }
 
-h2{
-    color:rgb(91, 0, 0);
+h2 {
+    color: rgb(91, 0, 0);
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
@@ -24,26 +25,26 @@ h2{
     text-align: center;
 }
 
-h3{
+h3 {
     color: rgb(91, 0, 0);
 }
 
-h4{
+h4 {
     color: rgb(91, 0, 0);
 }
 
 p {
-    color: rgb(10, 0, 35)
+    color: rgb(28, 0, 0)
 }
 
 video {
     width: 100%;
 }
 
-img{
+img {
     width: 500px;
 }
 
-a{
+a {
     color: rgb(0, 121, 186);
 }
