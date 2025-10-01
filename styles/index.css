@@ -3,11 +3,16 @@ body {
 }
 
 header{
-    color: rgb(49, 0, 30);
+    color: rgb(91, 0, 0);
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
-    background-image: url(/src/images/pancake_img.jpg)
+    background-image: url(/src/images/header_candy.jpg)
+}
+
+h1{
+    color: rgb(91, 0, 0);
+    text-align: center;
 }
 
 h2{
@@ -16,6 +21,11 @@ h2{
     background-position: center;
     background-repeat: no-repeat;
     background-image: url(/src/images/paletaDeCores.png);
+    text-align: center;
+}
+
+h3{
+    color: rgb(91, 0, 0);
 }
 
 p {
@@ -27,9 +37,9 @@ video {
 }
 
 img{
-    width: 50px;
+    width: 500px;
 }
 
 a{
-    color: rgb(0, 104, 159);
+    color: rgb(0, 121, 186);
 }
